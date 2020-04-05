@@ -1,3 +1,7 @@
+PythonQAOtus
+===================================================
+My first Otus homework - Testing Pyramid
+--------
 I'm new to test automation, but am familiar with DevOps and will be happy to take this course
 
 Courses
