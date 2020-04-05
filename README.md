@@ -2,7 +2,7 @@ PythonQAOtus
 ===================================================
 My first Otus homework - Testing Pyramid
 --------
-I'm new to test automation, but am familiar with DevOps and will be happy to take this course
+Hi! My name is Max. I'm new to test automation, but am familiar with DevOps and will be happy to take this course. I have installed Pycharm Pro, Linux and am ready to go.
 
 Courses
 11/2019 - 12/2019 QA software testing by Stepik
