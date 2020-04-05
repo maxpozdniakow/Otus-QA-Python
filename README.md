@@ -1,3 +1,5 @@
+I'm new to test automation, but am familiar with DevOps and will be happy to take this course
+
 Courses
 11/2019 - 12/2019 QA software testing by Stepik
 10/2019 - 11/2019 Data Base Essentials
